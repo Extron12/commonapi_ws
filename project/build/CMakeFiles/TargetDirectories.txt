@@ -1,0 +1,4 @@
+/home/bharatfih/commonapi_ws/project/build/CMakeFiles/AttributesClient.dir
+/home/bharatfih/commonapi_ws/project/build/CMakeFiles/AttributesService.dir
+/home/bharatfih/commonapi_ws/project/build/CMakeFiles/edit_cache.dir
+/home/bharatfih/commonapi_ws/project/build/CMakeFiles/rebuild_cache.dir
